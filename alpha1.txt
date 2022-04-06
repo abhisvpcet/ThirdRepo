@@ -1,1 +1,2 @@
 betta1 gamma1
+delta
